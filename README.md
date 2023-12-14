@@ -1,6 +1,6 @@
 ### About Me
 
-- 👋 Hi, I am [`Suman Panigrahi`] (https://www.linkedin.com/in/sumanpanigrahiman).
+- 👋 Hi, I am [`Suman Panigrahi`](https://www.linkedin.com/in/sumanpanigrahiman).
 - 🚀 Crafting Digital Dreams, One Line of Code at a Time.
 - 👀 My Portfolio: [Loading ...]
 - 😌 Curious!
