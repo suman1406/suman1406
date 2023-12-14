@@ -13,7 +13,6 @@
 ## Programming Languages & Frameworks
 <!--TODO: Add verilog-->
 ![Skills](https://skills.thijs.gg/icons?i=c,cpp,py,java,js,html,css,react,mysql,postgres,flutter,sqlite,dart,tailwind,express,nodejs,)
-
 <!--
 ## GitHub Contributions Graph
 [![Suman's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashrockzzz2003&theme=github-dark)](https://github.com/Ashrockzzz2003)
@@ -22,7 +21,6 @@
 ## Tools
 
 ![My Skills](https://skills.thijs.gg/icons?i=git,github,androidstudio,linux,autocad,bootstrap,codepen,firebase,ps,visualstudio,vscode,figma,eclipse,replit,postman,)
-
 <!--
 ## MarkUp
 
@@ -43,7 +41,6 @@
 <a href="https://www.linkedin.com/in/sumanpanigrahiman">![LinkedIn](https://skills.thijs.gg/icons?i=linkedin)</a>
 <a href="https://www.instagram.com/truly__livin/">![My Skills](https://skills.thijs.gg/icons?i=instagram)</a>
 <a href="https://twitter.com/techsumn">![My Skills](https://skills.thijs.gg/icons?i=twitter)</a>
-
 <!--
 # GitHub Stats :
 -->
