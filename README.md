@@ -47,14 +47,9 @@
 <a href="https://www.linkedin.com/in/sumanpanigrahiman">![LinkedIn](https://skills.thijs.gg/icons?i=linkedin)</a>
 <a href="https://www.instagram.com/truly__livin/">![My Skills](https://skills.thijs.gg/icons?i=instagram)</a>
 <a href="https://twitter.com/techsumn">![My Skills](https://skills.thijs.gg/icons?i=twitter)</a>
-<!--
 # GitHub Stats :
--->
 <!-- CUSTOM GITHUB README STATS HOSTED ON VERCEL -->
 <!-- Domain: github-readme-stats-dga59piw8-ashrockzzz2003.vercel.app -->
-<!--
-![Ashwin's GitHub Stats](https://github-readme-stats-dga59piw8-ashrockzzz2003.vercel.app/api?username=Ashrockzzz2003&show_icons=true&theme=dark&hide_border=false)
+![Ashwin's GitHub Stats](https://github-readme-stats-dga59piw8-suman1406.vercel.app/api?username=Ashrockzzz2003&show_icons=true&theme=dark&hide_border=false)
  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ashrockzzz2003&theme=dark)](https://git.io/streak-stats)
-
--->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=suman1406&theme=dark)](https://git.io/streak-stats)
