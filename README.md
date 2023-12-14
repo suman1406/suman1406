@@ -21,7 +21,7 @@
 
 ## Tools
 
-![My Skills](https://skills.thijs.gg/icons?i=git,github,androidstudio,linux,arduino,autocad,bootstrap,codepen,firebase,ps,visualstudio,vscode,figma,eclipse,replit,postman,)
+![My Skills](https://skills.thijs.gg/icons?i=git,github,androidstudio,linux,autocad,bootstrap,codepen,firebase,ps,visualstudio,vscode,figma,eclipse,replit,postman,)
 
 <!--
 ## MarkUp
