@@ -50,6 +50,6 @@
 # GitHub Stats :
 <!-- CUSTOM GITHUB README STATS HOSTED ON VERCEL -->
 <!-- Domain: github-readme-stats-dga59piw8-ashrockzzz2003.vercel.app -->
-![Suman's GitHub Stats](https://github-readme-stats-dga59piw8-suman1406.vercel.app/api?username=Ashrockzzz2003&show_icons=true&theme=dark&hide_border=false)
- 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=suman1406&theme=dark)](https://git.io/streak-stats)
+![Suman's GitHub Stats](https://github-readme-stats-dga59piw8-suman1406.vercel.app/api?username=suman1406&show_icons=true&theme=dark&hide_border=false)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=suman1406&theme=dark&hide_border=true)](https://git.io/streak-stats)
