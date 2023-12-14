@@ -32,7 +32,6 @@
 <a href="https://www.codechef.com/users/ashrock_m13" style="border-radius: 30%; height: 60px; width: 55px;"><img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/zruiknbedz8yqafxbazb" style="border-radius: 30%; height: 60px; width: 55px;"></a>
 <a href="https://codeforces.com/profile/ashrock_m13"><img src="https://play-lh.googleusercontent.com/zaldniLc2XTBhNlCDR4hcD5bcRYHZ56_lO0yA2Qu-cADShy1_HDWrICSvv0EPTX79WY" style="height: 60px; width: 55px;"></a>
 -->
-
 ## Reach Out To Me
 <!--
 <a href="https://ashrockzzz2003.github.io/portfolio/"><img height="48" width="48" src="https://cdn3d.iconscout.com/3d/premium/thumb/web-browser-4165162-3457172.png" ></a>
