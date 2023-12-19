@@ -53,11 +53,16 @@
 
 - ## Reach Out To Me
 
-<a href="mailto:psuman7155@gmail.com"><img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="gmail" height="30" width="40" /></a>
-<a href="https://codepen.io/sumanpanigrahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sumanpanigrahi" height="30" width="40" /></a>
-<a href="https://twitter.com/techsumn" target="blank"><img align="center" src="https://img.shields.io/twitter/follow/techsumn?logo=twitter&style=for-the-badge&color=%231DA1F2" alt="techsumn" /></a>
-<a href="https://linkedin.com/in/sumanpanigrahiman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumanpanigrahiman" height="30" width="40" /></a>
-<a href="https://fb.com/suman.panigrahi7155" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="suman.panigrahi7155" height="30" width="40" /></a>
-<a href="https://instagram.com/truly__livin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="truly__livin" height="30" width="40" /></a>
+1. 📧 **Email:** [psuman7155@gmail.com](mailto:psuman7155@gmail.com)
 
-[![Topmate Profile](https://img.shields.io/badge/Topmate-Profile-blue)](https://topmate.io/suman_pani)
+2. 🖥️ **CodePen:** [sumanpanigrahi](https://codepen.io/sumanpanigrahi)
+
+3. 🐦 **Twitter:** [techsumn](https://twitter.com/techsumn)
+
+4. 🔗 **LinkedIn:** [sumanpanigrahiman](https://linkedin.com/in/sumanpanigrahiman)
+
+5. 📘 **Facebook:** [suman.panigrahi7155](https://fb.com/suman.panigrahi7155)
+
+6. 📸 **Instagram:** [truly__livin](https://instagram.com/truly__livin)
+
+7. 🔗 [![Topmate Profile](https://img.shields.io/badge/Topmate-Profile-blue)](https://topmate.io/suman_pani)
