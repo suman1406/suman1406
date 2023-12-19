@@ -53,16 +53,16 @@
 
 - ## Reach Out To Me
 
-1. 📧 **Email:** [psuman7155@gmail.com](mailto:psuman7155@gmail.com)
+1. 📧 **Email:** [`psuman7155@gmail.com`](mailto:psuman7155@gmail.com)
 
-2. 🖥️ **CodePen:** [sumanpanigrahi](https://codepen.io/sumanpanigrahi)
+2. 🖥️ **CodePen:** [`sumanpanigrahi`](https://codepen.io/sumanpanigrahi)
 
-3. 🐦 **Twitter:** [techsumn](https://twitter.com/techsumn)
+3. 🐦 **Twitter:** [`techsumn`](https://twitter.com/techsumn)
 
-4. 🔗 **LinkedIn:** [sumanpanigrahiman](https://linkedin.com/in/sumanpanigrahiman)
+4. 🔗 **LinkedIn:** [`sumanpanigrahiman`](https://linkedin.com/in/sumanpanigrahiman)
 
-5. 📘 **Facebook:** [suman.panigrahi7155](https://fb.com/suman.panigrahi7155)
+5. 📘 **Facebook:** [`suman.panigrahi7155`](https://fb.com/suman.panigrahi7155)
 
-6. 📸 **Instagram:** [truly__livin](https://instagram.com/truly__livin)
+6. 📸 **Instagram:** [`truly__livin`](https://instagram.com/truly__livin)
 
 7. 🔗 [![Topmate Profile](https://img.shields.io/badge/Topmate-Profile-blue)](https://topmate.io/suman_pani)
