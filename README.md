@@ -28,25 +28,36 @@
 ## Tools
 
 ![My Skills](https://skills.thijs.gg/icons?i=git,github,androidstudio,linux,autocad,bootstrap,codepen,firebase,ps,visualstudio,vscode,figma,eclipse,replit,postman,)
+
+## Skills Overview:
+
+- Frontend: HTML, CSS, JavaScript, React, Bootstrap
+- Backend: Node.js, Express, Firebase
+- Database: MySQL, PostgreSQL, MongoDB, SQLite
+- Mobile App Development: Flutter, Dart
+- Version Control: Git, GitHub
+- Other: C, C++, Python, Java, Linux, Figma
+
+- ## Competitive Coding Profiles:
+
+- [CodeChef](https://www.codechef.com/users/psuman1406)
+- [HackerRank](https://www.hackerrank.com/psuman1406)
+- [LeetCode](https://www.leetcode.com/psuman1406)
 <!--
-## MarkUp
-
-![My Skills](https://skills.thijs.gg/icons?i=md,HTML)
-
-## Competitive Coding Profile
-
-<a href="https://www.hackerrank.com/Ashrock_m13"><img height="45" width="45" src="https://user-images.githubusercontent.com/17762967/42728663-26ebdb04-87dd-11e8-928f-fb01479a2ce1.png"></a>
-<a href="https://www.codechef.com/users/ashrock_m13" style="border-radius: 30%; height: 60px; width: 55px;"><img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/zruiknbedz8yqafxbazb" style="border-radius: 30%; height: 60px; width: 55px;"></a>
-<a href="https://codeforces.com/profile/ashrock_m13"><img src="https://play-lh.googleusercontent.com/zaldniLc2XTBhNlCDR4hcD5bcRYHZ56_lO0yA2Qu-cADShy1_HDWrICSvv0EPTX79WY" style="height: 60px; width: 55px;"></a>
--->
 ## Reach Out To Me
 <!--
 <a href="https://ashrockzzz2003.github.io/portfolio/"><img height="48" width="48" src="https://cdn3d.iconscout.com/3d/premium/thumb/web-browser-4165162-3457172.png" ></a>
 -->
 <a href="mailto:psuman7155@gmail.com"><img height="48" width="48" src="https://i.ibb.co/vD0fmh5/iconizer-icons8-gmail.png" ></a>
-<a href="https://www.linkedin.com/in/sumanpanigrahiman">![LinkedIn](https://skills.thijs.gg/icons?i=linkedin)</a>
-<a href="https://www.instagram.com/truly__livin/">![My Skills](https://skills.thijs.gg/icons?i=instagram)</a>
-<a href="https://twitter.com/techsumn">![My Skills](https://skills.thijs.gg/icons?i=twitter)</a>
+<a href="https://codepen.io/sumanpanigrahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sumanpanigrahi" height="30" width="40" /></a>
+<a href="https://twitter.com/techsumn" target="blank"><img align="center" src="https://img.shields.io/twitter/follow/techsumn?logo=twitter&style=for-the-badge" alt="techsumn" /></a>
+<a href="https://linkedin.com/in/sumanpanigrahiman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumanpanigrahiman" height="30" width="40" /></a>
+<a href="https://fb.com/suman.panigrahi7155" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="suman.panigrahi7155" height="30" width="40" /></a>
+<a href="https://instagram.com/truly__livin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="truly__livin" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/psuman1406" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="psuman1406" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/psuman1406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="psuman1406" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/psuman1406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="psuman1406" height="30" width="40" /></a>
+
 # GitHub Stats :
 <!-- CUSTOM GITHUB README STATS HOSTED ON VERCEL -->
 <!-- Domain: github-readme-stats-dga59piw8-ashrockzzz2003.vercel.app -->
