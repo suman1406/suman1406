@@ -46,7 +46,7 @@
 
 <!-- GitHub Contributions Graph -->
 ## GitHub Contributions Graph
-[![Suman's GitHub Activity Graph](https://github-readme-stats.vercel.app/api?username=suman1406&show_icons=true&count_private=true&theme=dark)]
+[Suman's GitHub Activity Graph](https://github-readme-stats.vercel.app/api?username=suman1406&show_icons=true&count_private=true&theme=dark)
 
 # Top Languages :
 
