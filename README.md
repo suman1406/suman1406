@@ -9,7 +9,7 @@
 
 - 👋 Hi, I am [`Suman Panigrahi`](https://www.linkedin.com/in/sumanpanigrahiman).
 - 🚀 Crafting Digital Dreams, One Line of Code at a Time.
-- 👀 My Portfolio: [Click Me!](https://suman1406.github.io/Portfolio/)
+- 👀 My Portfolio: [`Click Me!`](https://suman1406.github.io/Portfolio/).
 - 😌 Curious!
 - 👀 Contemplating the Exciting Journey into Competitive Coding.
 - 👀 ChatGPT prompter!
