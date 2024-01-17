@@ -7,7 +7,7 @@
 
 ### About Me
 
-- 👋 Hi, I am [`Suman Panigrahi`](https://www.linkedin.com/in/sumanpanigrahiman).
+- 👋 Hi, I am [`Suman Panigrahi`](https://suman1406.github.io/Portfolio/).
 - 🚀 Crafting Digital Dreams, One Line of Code at a Time.
 - 👀 My Portfolio: [`Click Me!`](https://suman1406.github.io/Portfolio/).
 - 😌 Curious!
