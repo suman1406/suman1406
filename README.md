@@ -36,7 +36,7 @@
 
 ## Competitive Coding Profile:
 
-- ![LeetCode Stats](https://leetcard.jacoblin.cool/psuman1406?theme=dark&font=Source%20Code%20Pro&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/psuman1406?theme=dark&font=Source%20Code%20Pro&ext=heatmap)
 
 # GitHub Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=suman1406&theme=dark&hide_border=true)](https://git.io/streak-stats)
