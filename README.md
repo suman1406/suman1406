@@ -34,7 +34,7 @@
 - 🔄 **Version Control:** Git, GitHub
 - 🚀 **Other:** C, C++, Python, Java, Linux, Figma
 
-## Competitive Coding Profiles:
+## Competitive Coding Profile:
 
 - ![LeetCode Stats](https://leetcard.jacoblin.cool/psuman1406?theme=dark&font=Source%20Code%20Pro&ext=heatmap)
 
