@@ -19,11 +19,11 @@
 
 ## Programming Languages & Frameworks
 <!--TODO: Add verilog-->
-![Skills](https://skillicons.dev/icons?i=c,cpp,py,java,js,html,css,react,mysql,postgres,flutter,sqlite,dart,tailwind,express,nodejs)](https://skillicons.dev)
+![Skills](https://skillicons.dev/icons?i=c,cpp,py,java,js,html,css,react,mysql,postgres,flutter,sqlite,dart,tailwind,express,nodejs)(https://skillicons.dev)
 
 ## Tools
 
-![My Skills](https://skillicons.dev/icons?i=git,github,androidstudio,linux,autocad,bootstrap,codepen,firebase,ps,visualstudio,vscode,figma,eclipse,replit,postman)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=git,github,androidstudio,linux,autocad,bootstrap,codepen,firebase,ps,visualstudio,vscode,figma,eclipse,replit,postman)(https://skillicons.dev)
 
 ## Skills Overview:
 
