@@ -82,15 +82,9 @@
 ## 📊 GitHub Stats & Contribution Overview
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suman1406&theme=gruvbox" alt="Profile Details" width="320"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suman1406&theme=gruvbox" alt="Profile Details" width="640"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suman1406&theme=gruvbox" alt="Repos per Language" width="320"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=suman1406&theme=gruvbox" alt="Most Commit Language" width="320"/>
-</div>
-
-<br/>
-
-<!-- Contribution Stats (from HwangTaehyun's repo) -->
-<div align="center">
   <img src="https://github-contribution-stats.vercel.app/api?username=suman1406&theme=radical&hide_border=true" alt="Contribution Stats" width="300" />
 </div>
 
