@@ -114,7 +114,6 @@
 | 💼 LinkedIn| [sumanpanigrahiman](https://linkedin.com/in/sumanpanigrahiman) |
 | 🖥️ CodePen | [sumanpanigrahi](https://codepen.io/sumanpanigrahi)        |
 | 🐦 Twitter | [@techsumn](https://twitter.com/techsumn)                 |
-| 📸 Instagram| [@truly__livin](https://instagram.com/truly__livin)       |
 | 🔗 Portfolio| [suman1406.github.io/Portfolio](https://suman1406.github.io/Portfolio) |
 | 🎙 Topmate | [topmate.io/suman_pani](https://topmate.io/suman_pani)     |
 
