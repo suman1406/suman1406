@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
   <h1 align="center">Hi 👋, I'm <a href="https://suman1406.github.io/Portfolio/" target="_blank">Suman Panigrahi</a></h1>
   <p align="center"><i>🚀 Crafting Digital Dreams, One Line of Code at a Time</i></p>
-  <a href="https://suman1406.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-%2300bfff?style=flat-square&logo=Google-Chrome&logoColor=white" /></a>
+  <a href="https://sumanpanigrahi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%2300bfff?style=flat-square&logo=Google-Chrome&logoColor=white" /></a>
   <a href="https://twitter.com/techsumn"><img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=flat-square&logo=Twitter&logoColor=white" /></a>
   <a href="https://linkedin.com/in/sumanpanigrahiman"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:psuman7155@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
@@ -75,7 +75,7 @@
 | **Spotify Web Player Clone** | HTML, CSS           | Responsive clone of Spotify's web player interface                   |
 | **Simon Says Game**       | HTML, CSS, JavaScript | Web game testing memory and sequencing skills                        |
 
-> 🔗 Explore all projects at [suman1406.github.io/Portfolio](https://suman1406.github.io/Portfolio)
+> 🔗 Explore all projects at [sumanpanigrahi](https://sumanpanigrahi.vercel.app/)
 
 ---
 
@@ -114,7 +114,7 @@
 | 💼 LinkedIn| [sumanpanigrahiman](https://linkedin.com/in/sumanpanigrahiman) |
 | 🖥️ CodePen | [sumanpanigrahi](https://codepen.io/sumanpanigrahi)        |
 | 🐦 Twitter | [@techsumn](https://twitter.com/techsumn)                 |
-| 🔗 Portfolio| [suman1406.github.io/Portfolio](https://suman1406.github.io/Portfolio) |
+| 🔗 Portfolio| [sumanpanigrahi](https://sumanpanigrahi.vercel.app/) |
 | 🎙 Topmate | [topmate.io/suman_pani](https://topmate.io/suman_pani)     |
 
 ---
