@@ -44,7 +44,7 @@
 ## 💼 Experience
 
 ### 🧑‍💻 Software Developer Intern @ [T.I.M.E.](https://www.time4education.com)
-📆 May 2025 – Present  
+📆 May 2025 – September 2025  
 🛠️ Tech Stack: Flutter, Node.js, Express, MySQL, Next.js  
 - Designed, built, and maintained scalable web and mobile applications, improving operational workflows and reducing manual intervention by over 80%.
 - Conducted manual testing and ensured deployment readiness, enhancing overall system reliability and user experience.
