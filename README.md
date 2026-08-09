@@ -16,7 +16,7 @@
   </p>
 
   <div>
-    <a href="https://sumanpanigrahi.vercel.app">
+    <a href="https://www.sumanpanigrahi.me/">
       <img src="https://img.shields.io/badge/Portfolio-00F0FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/>
     </a>
     <a href="https://linkedin.com/in/sumanpanigrahiman">
@@ -150,7 +150,7 @@ Cinematic 3D storytelling platform simplifying Computer Science, DSA, System Des
 - **Fake News Detection** — Graph ML Research Project
 - **SnapAlgo** — 3D Educational Content Platform
 
-**[→ Explore All Projects](https://sumanpanigrahi.vercel.app/)**
+**[→ Explore All Projects](https://www.sumanpanigrahi.me//)**
 
 ---
 
@@ -202,7 +202,7 @@ Sharing knowledge around **AI**, **System Design**, **Backend Engineering**, **D
 ## 🌌 Let's Connect & Build Together
 
 <div align="center">
-  <a href="https://sumanpanigrahi.vercel.app">
+  <a href="https://www.sumanpanigrahi.me/">
     <img src="https://img.shields.io/badge/Portfolio-00F0FF?style=for-the-badge&logo=vercel&logoColor=black"/>
   </a>
   <a href="https://linkedin.com/in/sumanpanigrahiman">
